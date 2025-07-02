@@ -5,5 +5,5 @@
     )
 # ( avaliação atividade 1!)
  public static void main (string) 
-{ system.out.println}  (" ola me chama maria valdenice")
-e estou disivolvendo o sistema (github) }
+{ system.out.println}  (" ola me chamo maria valdenice")
+e estou desivolvendo o sistema (github) }
